@@ -24,5 +24,6 @@ with open('vlk.txt', mode='rb') as f:
     cont = f.readlines()
 
 print("some changes")
+print("another c2 change")
 
 print(cont)
