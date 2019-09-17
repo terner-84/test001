@@ -3,3 +3,4 @@ Label inside Chart
 Kódl kouká na zápas v televizi
 hetts echtor damal
 angramna
+new gamma
